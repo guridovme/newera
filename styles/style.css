@@ -1,7 +1,7 @@
 html {scroll-behavior: smooth;}
 body {
     margin: 0 auto;
-    width: 1400px;
+    width: 1299px;
     min-width: 100%;
     font-family: 'Montserrat', sans-serif;
     background-color: #000000;  
@@ -28,6 +28,11 @@ h1 {
 .header {
     height: 913px;
     }
+.header__wrapper {
+        position: relative;
+        margin: 0 auto;
+        width: 1299px;
+    }
 .header h1{
     padding-top: 111px;
     text-align: center;
@@ -50,6 +55,14 @@ h1 {
     width: 1299px;
     height: 743px;
 }
-.iphone13pro {
-
+.intro-iphone-13-pro {
+    padding-top: 280px;
+    width: 100%;
+    position: relative;
+}
+.intro-iphone-13-pro__ {
+    position: relative;
+    margin: 0 auto;
+    width: 1299px;
+    height: 734px;
 }
