@@ -1,0 +1,22 @@
+html {scroll-behavior: smooth;}
+body {
+    margin: 0 auto;
+    width: 1400px;
+    min-width: 100%;
+    font-family: 'IBM Plex Mono';
+    background-color: #000000;  
+}
+p {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF; 
+}
+h1 {
+    font-size: 80px;
+    line-height: 70px;
+    letter-spacing: -0.03em;
+    color: #1BFF07;
+}
