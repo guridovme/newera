@@ -55,14 +55,50 @@ h1 {
     width: 1299px;
     height: 743px;
 }
-.intro-iphone-13-pro {
+.iphone-13-pro {
     padding-top: 280px;
     width: 100%;
     position: relative;
 }
-.intro-iphone-13-pro__ {
+.iphone-13-pro__inner {
     position: relative;
     margin: 0 auto;
     width: 1299px;
     height: 734px;
+}
+.iphone-13-pro h2 {
+    margin: 0 auto;
+    margin-bottom: 65px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #262525;
+}
+.iphone-13-pro p {
+    margin-left: 190px;
+    width: 967px;
+    height: 210px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 157.4%;
+    text-align: center;
+    color: #262525;
+}
+.iphone-13-pro a{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 31px;
+    align-items: center;
+    text-align: center;
+    color: #262525;
+}
+
+.iphone-13-pro-design__wrapper {
+    margin: 0 auto;
+    margin-bottom: 78px;
+    width: 100%;
+    height: 570px;
+    background: black;
 }
